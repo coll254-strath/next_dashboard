@@ -1,6 +1,8 @@
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
+the dark mode toggle is working.I have added more themes to the project.Expect more updates in the coming weeks!!
+![image](https://github.com/user-attachments/assets/8314a3b8-0873-42ba-ab21-a7010108c868)
 
 First, run the development server:
 
